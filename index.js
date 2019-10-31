@@ -2,5 +2,5 @@
 
 document.addEventListener("DOMContentLoaded", function() {
   let element = document.getElementById("text");
-  element.innerText = str;
+  element.innerText = 'This is really cool!';
 });
